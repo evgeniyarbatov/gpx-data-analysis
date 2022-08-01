@@ -2,6 +2,8 @@
 
 I accumulated a lot of GPX files over the last 2-3 years of my running. I want to make sense of all this data. I think the current tools for creating maps and plotting heart rate are only scratching the surface of what should be possible. 
 
+## Questions
+
 Here are the quesions I hope to answer by looking at the data:
 
 - I think my average heart rate has declined over time. 
