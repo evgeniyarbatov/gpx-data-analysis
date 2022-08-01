@@ -1,8 +1,6 @@
 # Making use of GPX Data
 
-I accumulated a lot of GPX files over the last 2-3 years of my running. I want to make sense of all this data. 
-
-I think the current tools for creating maps and plotting heart rate are only scratching the surface of what should be possible. 
+I accumulated a lot of GPX files over the last 2-3 years of my running. I want to make sense of all this data. I think the current tools for creating maps and plotting heart rate are only scratching the surface of what should be possible. 
 
 ## Questions
 
@@ -21,3 +19,4 @@ Here is what I hope to find / confirm / look at:
 - Experimenting with what is possible to do in [Data exploration.ipynb](https://github.com/evgeniyarbatov/gpx-data-analysis/blob/main/Data%20exploration.ipynb)
 - Looking into a single run in [Deep dive into single run.ipynb](https://github.com/evgeniyarbatov/gpx-data-analysis/blob/main/Deep%20dive%20into%20single%20run.ipynb)
 - Looking into multiple runs in [Deep dive multiple runs.ipynb](https://github.com/evgeniyarbatov/gpx-data-analysis/blob/main/Deep%20dive%20multiple%20runs.ipynb)
+- Trying out the plots in [Plotting.ipynb](https://github.com/evgeniyarbatov/gpx-data-analysis/blob/main/Plotting.ipynb)
