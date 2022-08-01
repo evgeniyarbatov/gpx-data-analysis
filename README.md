@@ -6,14 +6,14 @@ I think the current tools for creating maps and plotting heart rate are only scr
 
 ## Questions
 
-Here are the quesions I hope to answer by looking at the data:
+Here is what I hope to find / confirm / look at:
 
-- I think my average heart rate has declined over time. True or false?
-- I noticed patterns in my running: I tend to switch to walking when I get tired and make stops at traffic junctions. Can I identify these?
-- I want to predict my pace on the next day run given all the other runs I have done this week / month. Can I do that?
-- I tend to run some of the routes more frequently than the others. Can I find my favouite segments?
-- How is the watch accuracy over the same segment on multiple attempts?
-- Can I reliably predict my marathon finish time given the shorter runs I do? 
+- I think my average heart rate has declined over time
+- I noticed patterns in my running: I tend to switch to walking when I get tired
+- I want to predict my pace on the next day run given all the other runs I have done this week / month.
+- I tend to run some of the routes more frequently than the others: find my favourite segments
+- How does the watch accuracy change over the same segment on multiple attempts
+- Can I reliably predict my marathon finish time given the shorter runs I do
 - Last but not least: find inspiration for new runs and more exercise!
 
 ## What is here
